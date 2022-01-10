@@ -72,7 +72,7 @@ odm/etc/camera/davinci/device.config
 odm/etc/camera/davinci/hi1333_figo/hdr.xml
 odm/etc/camera/davinci/hi1333_figo/imgproc.xml
 odm/etc/camera/davinci/hi1333_figo/multiframe.xml
-odm/etc/camera/davinci/hi1333_figo/nicefood/imgproc.xml
+odm/etc/camera/davinci/hi1333_figo/nicefood/imgproc.xml|5a010dd93ca2c4d0b3ed3d0a60270ad3817937fe
 odm/etc/camera/davinci/hi843/hdr.xml
 odm/etc/camera/davinci/hi843/imgproc.xml
 odm/etc/camera/davinci/hi843/multiframe.xml
@@ -82,13 +82,13 @@ odm/etc/camera/davinci/imx219/multiframe.xml
 odm/etc/camera/davinci/imx258_figo/hdr.xml
 odm/etc/camera/davinci/imx258_figo/imgproc.xml
 odm/etc/camera/davinci/imx258_figo/multiframe.xml
-odm/etc/camera/davinci/imx258_figo/nicefood/imgproc.xml
+odm/etc/camera/davinci/imx258_figo/nicefood/imgproc.xml|5a010dd93ca2c4d0b3ed3d0a60270ad3817937fe
 odm/etc/camera/davinci/kernel/davinciclkernel_32.bin
 odm/etc/camera/davinci/kernel/davinciclkernel_64.bin
 odm/etc/camera/davinci/ov13855_figo/hdr.xml
 odm/etc/camera/davinci/ov13855_figo/imgproc.xml
 odm/etc/camera/davinci/ov13855_figo/multiframe.xml
-odm/etc/camera/davinci/ov13855_figo/nicefood/imgproc.xml
+odm/etc/camera/davinci/ov13855_figo/nicefood/imgproc.xml|5a010dd93ca2c4d0b3ed3d0a60270ad3817937fe
 odm/etc/camera/davinci/ov8856/hdr.xml
 odm/etc/camera/davinci/ov8856/imgproc.xml
 odm/etc/camera/davinci/ov8856/multiframe.xml
@@ -112,7 +112,7 @@ odm/etc/camera/frontbokeh/FcveConfig.dat
 odm/etc/camera/frontbokeh/blfkernelI_001.dat
 odm/etc/camera/frontbokeh/blfkernelI_005.dat
 odm/etc/camera/frontbokeh/blfkernelI_010.dat
-odm/etc/camera/frontbokeh/fcve.xml
+odm/etc/camera/frontbokeh/fcve.xml|5b60992508b9de3f62e44e87d89cc9919e3b3a73
 odm/etc/camera/frontbokeh/frontBokeh_lensBlur.bin
 odm/etc/camera/hdccalib/defaultOtp.rear
 odm/etc/camera/hdccalib/device.config
